@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Ghazia Huma
 
-<!--
-**ghaziahuma-creator/ghaziahuma-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | MERN Stack Enthusiast  
+🚀 Building scalable web applications  
+📍 Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Currently working on MERN projects
+- 🌱 Learning advanced backend & system design
+- 💡 Interested in real-world scalable apps
+- 📫 Reach me: ghaziahuma@gmail.com
+
+---
+
+## ⚒️ Tech Stack
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- MongoDB
+- Tailwind CSS
+
+---
+
+## 📌 Featured Projects
+- 🏠 mern-estate
+- 📊 log-analyzer
+- 📚 node-learning-tutorial
+
+---
+
+## 📈 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=ghaziahuma-creator&show_icons=true)
